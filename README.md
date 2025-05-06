@@ -6,7 +6,7 @@ This repository showcases an interactive data visualization of Connecticut Schoo
 
 ## Dashboard Preview
 
-![Connecticut School Construction Grants Dashboard](dashboard_screenshot.png)
+![Connecticut School Construction Grants Dashboard](Dashboard_Preview.png)
 
 *The dashboard visualizes grant funding by district, funding trends over time, project costs vs. grant amounts, and remaining grant balances by region.*
 
